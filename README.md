@@ -1,6 +1,7 @@
 # Sign4HumanityProgram
 
 Link to our YouTube Video: https://youtu.be/ocnxru-I9xY
+
 Credit to Nicholas Renotte for showing us how to use a lot of the dependencies' features and teaching us Machine Learning and Data Collection, a topic we had not known much about before the project! https://www.youtube.com/watch?v=doDUihpj6ro&t=7538s
 
 Thank You to Rishab for showing us how to create a UI using PySimpleGui, also something we have never tried: https://www.youtube.com/watch?v=Z2AKGjc8bqk&t=1022s
